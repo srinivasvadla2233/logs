@@ -10,6 +10,7 @@ namespace logs.Controllers
     {
         public ActionResult Index()
         {
+
             return View();
         }
 
